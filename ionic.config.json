@@ -1,0 +1,7 @@
+{
+  "name": "HeadsUp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
